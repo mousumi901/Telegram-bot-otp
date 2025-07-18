@@ -1,10 +1,9 @@
-from telegram import Bot
 from telegram.ext import ApplicationBuilder, ContextTypes
 import asyncio
 import requests
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "7592713558:AAHKKvq5tSgGz20xl5bDxCDyAz6kz5_jhAg"
+CHAT_ID = "7723036384"
 
 IVASMS_NUMBERS = [
     "2250141845964", "2250141841540", "2250141846218", "2250141841791",
