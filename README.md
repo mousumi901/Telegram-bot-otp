@@ -1,2 +1,2 @@
-# Telegram-bot-otp
-Optional
+python-telegram-bot==20.6
+requests
